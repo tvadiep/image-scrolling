@@ -102,7 +102,6 @@ function App() {
         currentPage={currentPage}
         setCurrentPage={setCurrentPage}
       />
-      <p>shit</p>
     </Container>
   );
 }
